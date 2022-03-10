@@ -1,0 +1,26 @@
+1. How has your knowledge of the tech field changed since class began?
+
+My knowledge of the tech field has certainly expanded. Prior to DevMountain, I had a fairly solid understanding of the field in general since I enjoy tech and have a few friends already working in the field professionally. But now my understanding is a bit less general and more focused. I better realize what some of the individual rolls in the field are and how they function within a team and a company.
+
+2. What was the most difficult part of Foundations for you? And how did you overcome that?
+CSS. CSS was the most difficult part of Foundations. There seems to be no good standardize way to learn it. There are a million different ways to do the same thing with it and often the different ways conflict with each other (or more often conflict with something else you are trying to do). And if you turn to the internet for help, you get many different solutions that may or may not work depending on what else you have already screwed up. And there are no error messages when something goes wrong.
+
+I overcome this by deciding I would just be a back end developer instead. But the above rant aside, and in all seriousness, the most difficult part was actually the feeling that I am just scratching the surface of many of the technologies we covered. For example, Express and Cors. Express I know enough about to use it in the way I was shown. But it looks like it can be used for so much more. Same with Cors. Apparently Cors is used pretty frequently by many companies but they use it in a way we didn't cover. I recognize that in a bootcamp we can't go super in-depth of every technology, but feeling like I am missing vital info leaves me feeling anxious. 
+
+My remedy for this was two-fold. I would ask my friends in the field about it to see what kind of feeback they would give. Then based on their response, I would research the technologies myself, or file it away for study later.
+
+3. Did you learn anything about the way you learn? What was it?
+
+Actually, yes. I always thought I learned best by reading. But I have had a much easier time learning by watching someone do something while explaining why and how it works. Then replicating the process myself multiple times immediately after. In other words, the lecture followed immediately by a code along followed by independent coding was absolute gold for me.
+
+4. How will you apply what you know about your learning style during Specializations?
+
+Hard to say since I still don't know full what the Specialiations experience will be like. But if it isn't already required, I will definitely be coding along as much as I can.
+
+5. What was your experience with pair programming like?
+
+Honestly, it has mostly been 'seperate but together'. Typically we each would work independently, and ask each other questions if we had difficulty. Other times we would talk through a proposed solution or approach together, then independently work through the proposed solution, checking back occasionally to report our findings.
+
+6. What parts of Foundations did you enjoy the most? (This could be anything from a specific lab or lecture to the general setup of class or a funny moment.)
+
+The cohort Zoom and Discord chat was phenominal. It was wonderful being part of such a lively group who helped keep things fun and laid back, but who also were exceptionally willing to help out when others had issues. I also really really enjoyed the morning challenges. I enjoy that kind of pure problem solving over building a webpage. 
